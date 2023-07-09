@@ -1,5 +1,5 @@
 # learn-terraform
-## docuemntação
+## documentação
 - https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 ## comandos
 - terraform init
