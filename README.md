@@ -7,4 +7,7 @@
 - terraform apply
 - terraform apply -auto-approve
 - terraform state show
-- terraform destroy
+- terraform destroy -auto-approve
+- terraform console
+- terraform console -var="host_os=unix"
+- terraform console -var-file="dev.tfvars"
