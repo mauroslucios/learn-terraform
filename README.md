@@ -11,3 +11,4 @@
 - terraform console
 - terraform console -var="host_os=unix"
 - terraform console -var-file="dev.tfvars"
+- terraform apply -refresh-only
